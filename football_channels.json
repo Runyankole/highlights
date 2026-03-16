@@ -1,1 +1,74 @@
-football_channels.json
+{
+  "channels": [
+    {
+      "id": "UCyGa1YEx9ST66rYrJTGIKOw",
+      "name": "UEFA Champions League",
+      "category": "UEFA",
+      "priority": 1,
+      "searchTerms": ["highlights", "match highlights", "best moments"]
+    },
+    {
+      "id": "UC5K6e5Q5Q5Q5Q5Q5Q5Q5Q5Q",
+      "name": "UEFA Europa League",
+      "category": "UEFA",
+      "priority": 2,
+      "searchTerms": ["highlights", "match highlights"]
+    },
+    {
+      "id": "UCP_rC0Oj_4JtTQJZQqQqQqQ",
+      "name": "Premier League",
+      "category": "PREMIER_LEAGUE",
+      "priority": 1,
+      "searchTerms": ["highlights", "match highlights", "every goal"]
+    },
+    {
+      "id": "UC9LQwHZqYQkQkQkQkQkQkQ",
+      "name": "Liverpool FC",
+      "category": "PREMIER_LEAGUE",
+      "priority": 3,
+      "searchTerms": ["highlights", "extended highlights"]
+    },
+    {
+      "id": "UC8p1wwBmYQkQkQkQkQkQkQ",
+      "name": "Manchester United",
+      "category": "PREMIER_LEAGUE",
+      "priority": 3,
+      "searchTerms": ["highlights", "match highlights"]
+    },
+    {
+      "id": "UCYqQkQkQkQkQkQkQkQkQk",
+      "name": "Real Madrid CF",
+      "category": "LA_LIGA",
+      "priority": 2,
+      "searchTerms": ["highlights", "resumen"]
+    },
+    {
+      "id": "UC8qQkQkQkQkQkQkQkQkQk",
+      "name": "FC Barcelona",
+      "category": "LA_LIGA",
+      "priority": 2,
+      "searchTerms": ["highlights", "resumen"]
+    },
+    {
+      "id": "UC8qQkQkQkQkQkQkQkQkQk",
+      "name": "FC Bayern München",
+      "category": "BUNDESLIGA",
+      "priority": 2,
+      "searchTerms": ["highlights", "zusammenfassung"]
+    },
+    {
+      "id": "UC8qQkQkQkQkQkQkQkQkQk",
+      "name": "Juventus",
+      "category": "SERIE_A",
+      "priority": 2,
+      "searchTerms": ["highlights", "gli highlights"]
+    },
+    {
+      "id": "UC8qQkQkQkQkQkQkQkQkQk",
+      "name": "PSG",
+      "category": "LIGUE_1",
+      "priority": 2,
+      "searchTerms": ["highlights", "résumé"]
+    }
+  ]
+}
